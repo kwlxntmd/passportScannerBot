@@ -1,0 +1,14 @@
+*.jpg
+/.cache
+/.gradle
+/venv
+/work
+/target
+__pycache__
+/.python_history
+config.py
+/.idea
+passport_photos
+passport_data.db
+/scan_test_file.py
+/user_documents
